@@ -3,7 +3,7 @@ AutoHotkey script to set rotation/angle for a Thrustmaster Force Feedback wheel.
 
 ## Getting Started
 
-These instructions will get you get the script working.
+These instructions will help you get the script working.
 
 ### Prerequisites
 1. Thrustmaster Force Feedback wheel with PC drivers installed. Download: https://support.thrustmaster.com/en/product/tmx-pro-force-feedback-en/
